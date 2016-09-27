@@ -1,0 +1,44 @@
+{
+    "states" : [
+        {
+            "state":    "Abia",
+            "capital":  "Umuahia",
+            "region":   "South West",
+            "created":  "27-01-1991",
+            "slogan":   "God's own state",
+            "website":  "http://www.abiastate.gov.ng"
+        },
+        {
+            "state":    "Adamawa",
+            "capital":  "Yola",
+            "region":   "North East",
+            "created":  "27-01-1991",
+            "slogan":   "Land of beauty, sunshine and hospitality",
+            "website":  "http://www.adamawastate.gov.ng"
+        },
+        {
+            "state":    "Akwa Ibom",
+            "capital":  "Uyo",
+            "region":   "South South",
+            "created":  "23-09-1987",
+            "slogan":   "Land of promise",
+            "website":  "http://www.akwaibomstate.gov.ng"
+        },
+        {
+            "state":    "Anambra",
+            "capital":  "Awka",
+            "region":   "South East",
+            "created":  "27-01-1991",
+            "slogan":   "Home for all",
+            "website":  "http://www.anambrastate.gov.ng"
+        },
+        {
+            "state":    "Bauchi",
+            "capital":  "Bauchi",
+            "region":   "South East",
+            "created":  "03-02-1976",
+            "slogan":   "Pearl of tourism",
+            "website":  "http://www.bauchistate.gov.ng"
+        }
+    ]
+}
